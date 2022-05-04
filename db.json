@@ -1,0 +1,51 @@
+{
+  "projects": [
+    {
+      "name": "project cesar",
+      "budget": "15000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 600,
+      "services": [
+        {
+          "name": "cesar",
+          "cost": "600",
+          "description": "Celular",
+          "id": "8cabf766-012b-4f87-b6a0-851555ec8694"
+        }
+      ],
+      "id": 47
+    },
+    {
+      "name": "meu projetinho",
+      "budget": "5000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 48
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
